@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <kbd>
-  <img src="https://res.cloudinary.com/img-cloud-alex/image/upload/v1693185622/apps/wag1xecj2ov5nilcfzb3.png" width="100"/>
-  <img src="https://res.cloudinary.com/img-cloud-alex/image/upload/v1693185622/apps/quondqqnuuqdn9xxwzyn.png" width="100"/>
-    <img src="https://res.cloudinary.com/img-cloud-alex/image/upload/v1693185622/apps/r84fewnjv3iwroshkubo.png" width="100"/>
+  <img src="https://res.cloudinary.com/img-cloud-alex/image/upload/v1693185622/apps/wag1xecj2ov5nilcfzb3.png" width="150"/>
+  <img src="https://res.cloudinary.com/img-cloud-alex/image/upload/v1693185622/apps/quondqqnuuqdn9xxwzyn.png" width="150"/>
+    <img src="https://res.cloudinary.com/img-cloud-alex/image/upload/v1693185622/apps/r84fewnjv3iwroshkubo.png" width="150"/>
 </kbd>
