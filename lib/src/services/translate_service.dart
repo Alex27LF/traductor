@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 
 class TranslateService {
   TranslateService();
-  final String apiKey = 'AIzaSyC2pffsGDXLgsLunQSWrnm6MGvVoAf6h3o';
+  final String apiKey = 'Your-API-KEY';
   final String _rootUrl =
       "https://translation.googleapis.com/language/translate/v2";
 
